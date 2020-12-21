@@ -1,16 +1,16 @@
-### Hi there 👋
+<img src="https://github-readme-stats.vercel.app/api?username=ArfOz&show_icons=true&theme=dark" align='right' width="55%">
 
-<!--
-**ArfOz/ArfOz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Hi there 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ArfOz" alt="" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arif-%C3%B6zkan-%C3%B6zt%C3%BCrk-3503191b2/)
+[![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Arif0zkan)
+
+<img src="./animation_500_kd7ngokt.gif" alt="react-native" width="20%" height="20%" align="right">
+
+- 🔭 I’m currently learning on frontend and mobile app development (JavaScript | React | React Native)
+- 🌱 I’m currently learning also backend development (Node.js | MongoDB | Django)
+- 👯 I’m looking for job to develop myself and company.
+- 💬 Ask me about anything that you want to learn
+
